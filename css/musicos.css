@@ -1,0 +1,338 @@
+.html
+{
+	background: #F0F0F0 url("../images/fondo-navegador.jpg") no-repeat center top fixed;
+	background-size: cover !important;
+}
+
+#page
+{
+	z-index: 1;
+	width: 0px;
+	min-height: 0px;
+	border-style: none;
+	border-color: #000000;
+	padding-top: 62px;
+	padding-right: 960px;
+	padding-bottom: 898px;
+	margin-left: auto;
+	margin-right: auto;
+	background: transparent url("../images/perfiles-ind_fondo_1.png") no-repeat center top;
+}
+
+#u2017
+{
+	z-index: 19;
+	width: 2700px;
+	top: 0px;
+	left: 50%;
+	margin-left: -1348px;
+}
+
+#pu183
+{
+	width: 0.01px;
+	padding-bottom: 79px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u183
+{
+	z-index: 20;
+	top: 0px;
+	left: 50%;
+	margin-left: -1348px;
+}
+
+#u1741
+{
+	z-index: 27;
+	width: 71px;
+	height: 13px;
+	top: 41px;
+	left: 50%;
+	margin-left: -112px;
+}
+
+#u1741:hover
+{
+	margin: 0px 0px 0px -112px;
+}
+
+#u1741.MuseLinkActive
+{
+	margin: 0px 0px 0px -112px;
+}
+
+#u1773
+{
+	z-index: 28;
+	width: 68px;
+	height: 16px;
+	top: 38px;
+	left: 50%;
+	margin-left: 109px;
+}
+
+#u1773:hover
+{
+	margin: 0px 0px 0px 109px;
+}
+
+#u1773.MuseLinkActive
+{
+	margin: 0px 0px 0px 109px;
+}
+
+#u1789
+{
+	z-index: 29;
+	width: 68px;
+	height: 13px;
+	top: 41px;
+	left: 50%;
+	margin-left: 222px;
+}
+
+#u1789:hover
+{
+	margin: 0px 0px 0px 222px;
+}
+
+#u1789.MuseLinkActive
+{
+	margin: 0px 0px 0px 222px;
+}
+
+#u1805
+{
+	z-index: 30;
+	width: 91px;
+	height: 13px;
+	top: 41px;
+	left: 50%;
+	margin-left: 334px;
+}
+
+#u1805:hover
+{
+	margin: 0px 0px 0px 334px;
+}
+
+#u1805.MuseLinkActive
+{
+	margin: 0px 0px 0px 334px;
+}
+
+#u1821
+{
+	z-index: 31;
+	width: 5px;
+	top: 28px;
+	left: 50%;
+	margin-left: -21px;
+}
+
+#u1835
+{
+	z-index: 33;
+	width: 5px;
+	top: 28px;
+	left: 50%;
+	margin-left: 197px;
+}
+
+#u1826
+{
+	z-index: 35;
+	width: 5px;
+	top: 28px;
+	left: 50%;
+	margin-left: 84px;
+}
+
+#u1838
+{
+	z-index: 37;
+	width: 5px;
+	top: 28px;
+	left: 50%;
+	margin-left: 310px;
+}
+
+#ppu1719
+{
+	width: 0.01px;
+	padding-bottom: 58px;
+	position: relative;
+	margin-right: -10000px;
+	left: 908px;
+}
+
+#u1719
+{
+	z-index: 23;
+	height: 119px;
+	width: 280px;
+	top: 0px;
+	left: 50%;
+	margin-left: -443px;
+}
+
+#u2005
+{
+	z-index: 39;
+	width: 62px;
+	height: 16px;
+	margin-right: -10000px;
+	margin-top: 38px;
+	left: 443px;
+}
+
+#u2005:hover
+{
+	margin: 38px -10000px 0px 0px;
+}
+
+#u2005.MuseLinkActive
+{
+	margin: 38px -10000px 0px 0px;
+}
+
+#u1612
+{
+	z-index: 2;
+	width: 945px;
+	position: fixed;
+	top: 69px;
+	left: 50%;
+	margin-left: -473px;
+}
+
+#u655
+{
+	z-index: 3;
+	width: 226px;
+	height: 710px;
+	position: relative;
+	margin-right: -10000px;
+	background: transparent url("../images/baracaldo_btn.png") no-repeat left top;
+	background-size: contain !important;
+}
+
+#u655:hover
+{
+	margin: 0px -10000px 0px 0px;
+	background: transparent url("../images/baracaldo_btn2.png") no-repeat left top;
+	background-size: contain !important;
+}
+
+#u656
+{
+	z-index: 4;
+	width: 226px;
+	height: 710px;
+	position: relative;
+	margin-right: -10000px;
+	left: 240px;
+	background: transparent url("../images/garcia_btn.png") no-repeat left top;
+	background-size: contain !important;
+}
+
+#u656:hover
+{
+	margin: 0px -10000px 0px 0px;
+	background: transparent url("../images/garcia_btn2.png") no-repeat left top;
+	background-size: contain !important;
+}
+
+#u657
+{
+	z-index: 5;
+	width: 226px;
+	height: 710px;
+	position: relative;
+	margin-right: -10000px;
+	left: 479px;
+	background: transparent url("../images/iragorri_btn.png") no-repeat left top;
+	background-size: contain !important;
+}
+
+#u657:hover
+{
+	margin: 0px -10000px 0px 0px;
+	background: transparent url("../images/iragorri_btn2.png") no-repeat left top;
+	background-size: contain !important;
+}
+
+#u658
+{
+	z-index: 6;
+	width: 226px;
+	height: 710px;
+	position: relative;
+	margin-right: -10000px;
+	left: 719px;
+	background: transparent url("../images/zorro_btn.png") no-repeat left top;
+	background-size: contain !important;
+}
+
+#u658:hover
+{
+	margin: 0px -10000px 0px 0px;
+	background: transparent url("../images/zorro_btn2.png") no-repeat left top;
+	background-size: contain !important;
+}
+
+#u324
+{
+	z-index: 7;
+	width: 67px;
+	top: 432px;
+	right: 0px;
+}
+
+#u291
+{
+	z-index: 9;
+	height: 47px;
+	width: 67px;
+}
+
+#u313
+{
+	z-index: 12;
+	height: 47px;
+	width: 67px;
+	margin-top: 3px;
+}
+
+#u1664
+{
+	z-index: 14;
+	width: 2711px;
+	bottom: -1px;
+	left: 50%;
+	margin-left: -1361px;
+}
+
+#u1667
+{
+	z-index: 15;
+	margin-right: -10000px;
+}
+
+#u1665
+{
+	z-index: 17;
+	width: 303px;
+	margin-right: -10000px;
+	margin-top: 19px;
+	left: 1210px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

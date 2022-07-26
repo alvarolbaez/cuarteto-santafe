@@ -1,0 +1,177 @@
+<manifest alg="2" build="232" opt="false" iceEnabled="true">
+  <folder name="css">
+    <file name="site_global.css" crc="475556753"/>
+    <file name="master_cabezote_pie.css" crc="3768304060" ref="musicos:galeria:agenda:index:perfiles:contacto:gracias:musica"/>
+    <file name="master_musicos.css" crc="132862958" ref="baracaldo:iragorri:zorro:garcia"/>
+    <file name="baracaldo.css" crc="197619461" ref="baracaldo"/>
+    <file name="musicos.css" crc="4235259548" ref="musicos"/>
+    <file name="galeria.css" crc="4127711208" ref="galeria"/>
+    <file name="agenda.css" crc="494899467" ref="agenda"/>
+    <file name="iragorri.css" crc="13063028" ref="iragorri"/>
+    <file name="zorro.css" crc="3931493911" ref="zorro"/>
+    <file name="index.css" crc="3872172956" ref="index"/>
+    <file name="perfiles.css" crc="4122930111" ref="perfiles"/>
+    <file name="contacto.css" crc="3893853117" ref="contacto"/>
+    <file name="garcia.css" crc="3970420250" ref="garcia"/>
+    <file name="gracias.css" crc="447128995" ref="gracias"/>
+    <file name="musica.css" crc="3880781320" ref="musica"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:perfiles:galeria:agenda:musicos:baracaldo:iragorri:garcia:zorro:contacto:gracias:musica"/>
+    <file name="museutils.js" crc="3865766194" ref="index:perfiles:galeria:agenda:musicos:baracaldo:iragorri:garcia:zorro:contacto:gracias:musica"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="291134478" ref="index:galeria:agenda:musicos:baracaldo:contacto:gracias"/>
+    <file name="webpro.js" crc="3903299128" ref="index:galeria:contacto"/>
+    <file name="musewpslideshow.js" crc="138381373" ref="index:galeria"/>
+    <file name="jquery.museoverlay.js" crc="4250894771" ref="index:galeria"/>
+    <file name="touchswipe.js" crc="4156838003" ref="index:galeria"/>
+    <file name="form_check.php" crc="4066397928" ref="contacto"/>
+    <file name="form_throttle.php" crc="3962765407" ref="contacto"/>
+    <file name="form-u1214.php" crc="146960740" ref="contacto"/>
+    <file name="jquery.watch.js" crc="4068933136" ref="index:perfiles:galeria:agenda:musicos:baracaldo:iragorri:garcia:zorro:contacto:gracias:musica"/>
+  </folder>
+  <folder name="images">
+    <file name="fondo-navegador.jpg" crc="3825974163" ref="index:galeria:agenda:contacto:gracias:musicos:musica"/>
+    <file name="cabezote_1-u183.png" crc="4158378204" ref="index:perfiles:galeria:agenda:musicos:contacto:gracias:musica"/>
+    <file name="fondo_todos.jpg" crc="3890669520" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="fb_btn-u291.png" crc="371333033" ref="index:perfiles:galeria:agenda:musicos:contacto:gracias:musica"/>
+    <file name="fb_btn-u291-r.png" crc="3943980171" ref="index:perfiles:galeria:agenda:musicos:contacto:gracias:musica"/>
+    <file name="youtube_btn-u313.png" crc="4254985403" ref="index:perfiles:galeria:agenda:musicos:contacto:gracias:musica"/>
+    <file name="youtube_btn-u313-r.png" crc="4217671141" ref="index:perfiles:galeria:agenda:musicos:contacto:gracias:musica"/>
+    <file name="pie_de_pag_txt.png" crc="459323117" ref="index:perfiles:galeria:agenda:musicos:baracaldo:iragorri:garcia:zorro:contacto:gracias:musica"/>
+    <file name="vlack_1.jpg" crc="410230276" ref="perfiles"/>
+    <file name="nosotros_2.jpg" crc="4146043360" ref="perfiles"/>
+    <file name="nosotrs_t-u558.png" crc="139089647" ref="perfiles"/>
+    <file name="perfiles_individuales_btn-u582.png" crc="224904883" ref="perfiles"/>
+    <file name="perfiles_individuales_btn-u582-r.png" crc="3906261777" ref="perfiles"/>
+    <file name="u563-19.png" crc="18506570" ref="perfiles"/>
+    <file name="1m.jpg" crc="48519911" ref="galeria"/>
+    <file name="1rollover.jpg" crc="151911366" ref="galeria"/>
+    <file name="4m.jpg" crc="3853988388" ref="galeria"/>
+    <file name="4rollover.jpg" crc="3932032457" ref="galeria"/>
+    <file name="8m.jpg" crc="4025346988" ref="galeria"/>
+    <file name="8rollover.jpg" crc="250383367" ref="galeria"/>
+    <file name="3m.jpg" crc="447439463" ref="galeria"/>
+    <file name="3rollover.jpg" crc="281734921" ref="galeria"/>
+    <file name="2m.jpg" crc="111705653" ref="galeria"/>
+    <file name="2rollover.jpg" crc="3839378412" ref="galeria"/>
+    <file name="5m.jpg" crc="425435935" ref="galeria"/>
+    <file name="5rollover.jpg" crc="256648087" ref="galeria"/>
+    <file name="6m.jpg" crc="4247799805" ref="galeria"/>
+    <file name="6rollover.jpg" crc="23952932" ref="galeria"/>
+    <file name="7m.jpg" crc="3899145942" ref="galeria"/>
+    <file name="7rollover.jpg" crc="210100448" ref="galeria"/>
+    <file name="1.jpg" crc="3765707525" ref="galeria"/>
+    <file name="4.jpg" crc="4029837475" ref="galeria"/>
+    <file name="8.jpg" crc="3931540261" ref="galeria"/>
+    <file name="3.jpg" crc="312134917" ref="galeria"/>
+    <file name="2.jpg" crc="3987164542" ref="galeria"/>
+    <file name="5.jpg" crc="3861789202" ref="galeria"/>
+    <file name="6.jpg" crc="460696209" ref="galeria"/>
+    <file name="7.jpg" crc="4022316067" ref="galeria"/>
+    <file name="u1364-4.png" crc="110464126" ref="agenda"/>
+    <file name="perfiles-ind_fondo_1.png" crc="4202658337" ref="musicos"/>
+    <file name="baracaldo_btn.png" crc="3902460379" ref="musicos"/>
+    <file name="baracaldo_btn2.png" crc="4245319564" ref="musicos"/>
+    <file name="garcia_btn.png" crc="3810866233" ref="musicos"/>
+    <file name="garcia_btn2.png" crc="52493758" ref="musicos"/>
+    <file name="iragorri_btn.png" crc="520916907" ref="musicos"/>
+    <file name="iragorri_btn2.png" crc="4013624330" ref="musicos"/>
+    <file name="zorro_btn.png" crc="121166596" ref="musicos"/>
+    <file name="zorro_btn2.png" crc="3776931018" ref="musicos"/>
+    <file name="black_2.jpg" crc="251695703" ref="baracaldo:iragorri:garcia:zorro"/>
+    <file name="mus_baracaldo_btn.png" crc="225887385" ref="baracaldo"/>
+    <file name="mus_baracaldo_btn2.png" crc="232810460" ref="baracaldo"/>
+    <file name="mus_garcia_btn.png" crc="342433964" ref="baracaldo"/>
+    <file name="mus_garcia_btn2.png" crc="4093869435" ref="baracaldo"/>
+    <file name="mus_iragorri_btn.png" crc="86291260" ref="baracaldo"/>
+    <file name="mus_iragorri_btn2.png" crc="4090406475" ref="baracaldo"/>
+    <file name="mus_zorro_btn.png" crc="323068393" ref="baracaldo"/>
+    <file name="mus_zorro_btn2.png" crc="185042799" ref="baracaldo"/>
+    <file name="baracaldop_1.jpg" crc="451882553" ref="baracaldo"/>
+    <file name="titulo_baracaldo.png" crc="3865243679" ref="baracaldo"/>
+    <file name="fb_btn-u731.png" crc="371333033" ref="baracaldo:iragorri:garcia:zorro"/>
+    <file name="fb_btn-u731-r.png" crc="3943980171" ref="baracaldo:iragorri:garcia:zorro"/>
+    <file name="youtube_btn-u732.png" crc="4254985403" ref="baracaldo:iragorri:garcia:zorro"/>
+    <file name="youtube_btn-u732-r.png" crc="4217671141" ref="baracaldo:iragorri:garcia:zorro"/>
+    <file name="u807-7.png" crc="272625548" ref="baracaldo"/>
+    <file name="pie_de_pag-1-u822.png" crc="314890376" ref="baracaldo:iragorri:garcia:zorro"/>
+    <file name="iragorrip_1.jpg" crc="161482506" ref="iragorri"/>
+    <file name="titulo_iragorri.png" crc="3802719088" ref="iragorri"/>
+    <file name="u811-7.png" crc="38505367" ref="iragorri"/>
+    <file name="garciap_1.jpg" crc="441463238" ref="garcia"/>
+    <file name="titulo_garcia.png" crc="4030107340" ref="garcia"/>
+    <file name="u809-11.png" crc="224048038" ref="garcia"/>
+    <file name="zorrop_1.jpg" crc="3982675684" ref="zorro"/>
+    <file name="titulo_zorro.png" crc="4243266945" ref="zorro"/>
+    <file name="u813-10.png" crc="278044253" ref="zorro"/>
+    <file name="u1219.png" crc="2862504" ref="contacto"/>
+    <file name="u1219-ferr.png" crc="2862504" ref="contacto"/>
+    <file name="u1241.png" crc="2862504" ref="contacto"/>
+    <file name="u1241-ferr.png" crc="2862504" ref="contacto"/>
+    <file name="enviar_normal-u1220-13.png" crc="4279109996" ref="contacto"/>
+    <file name="enviar_rollover-u1220-13-r.png" crc="4233302513" ref="contacto"/>
+    <file name="enviar_rollover-u1220-13-m.png" crc="3899167152" ref="contacto"/>
+    <file name="enviar_normal-u1220-13-fs.png" crc="4058471015" ref="contacto"/>
+    <file name="u1246.png" crc="2862504" ref="contacto"/>
+    <file name="u1246-ferr.png" crc="2862504" ref="contacto"/>
+    <file name="u1271.png" crc="2862504" ref="contacto"/>
+    <file name="u1271-ferr.png" crc="2862504" ref="contacto"/>
+    <file name="nombre_tit-u1286.png" crc="3765464513" ref="contacto"/>
+    <file name="e-mail_tit-u1280.png" crc="421384601" ref="contacto"/>
+    <file name="motivo_tit-u1291.png" crc="3798579497" ref="contacto"/>
+    <file name="texto_tit-u1296.png" crc="397109616" ref="contacto"/>
+    <file name="favicon.ico" crc="3927116157" ref="index"/>
+    <file name="prev_normal.png" crc="3980069238" ref="galeria"/>
+    <file name="prev_rollover.png" crc="4219388122" ref="galeria"/>
+    <file name="next_normal.png" crc="331978266" ref="galeria"/>
+    <file name="next_rollover.png" crc="435512956" ref="galeria"/>
+    <file name="u1572-4.png" crc="114396813" ref="gracias"/>
+    <file name="pie_de_pag-1-u1667.png" crc="314890376" ref="index:perfiles:galeria:agenda:musicos:contacto:gracias:musica"/>
+    <file name="home_2_btn-u1719.png" crc="379386232" ref="index:perfiles:galeria:agenda:musicos:contacto:gracias:musica"/>
+    <file name="home_2_btn-u1719-r.png" crc="130560566" ref="index:perfiles:galeria:agenda:musicos:contacto:gracias:musica"/>
+    <file name="home_2_btn-u1719-m.png" crc="130560566" ref="index:perfiles:galeria:agenda:musicos:contacto:gracias:musica"/>
+    <file name="home_2_btn-u1719-a.png" crc="379386232" ref="index:perfiles:galeria:agenda:musicos:contacto:gracias:musica"/>
+    <file name="perfiles2_btn.png" crc="110206179" ref="index:baracaldo"/>
+    <file name="perfiles2_btn2.png" crc="98620292" ref="index:baracaldo"/>
+    <file name="perfiles2_btn3.png" crc="98620292" ref="index:baracaldo"/>
+    <file name="separador-2.png" crc="3782444516" ref="index:perfiles:galeria:agenda:musicos:baracaldo:iragorri:garcia:zorro:contacto:gracias:musica"/>
+    <file name="galeria2_btn.png" crc="3780087270" ref="index:baracaldo"/>
+    <file name="galeria2_btn2.png" crc="3894693332" ref="index:baracaldo"/>
+    <file name="galeria2_btn3.png" crc="3894693332" ref="index:baracaldo"/>
+    <file name="agenda2_btn.png" crc="4008441827" ref="index:baracaldo"/>
+    <file name="agenda2_btn2.png" crc="4007314866" ref="index:baracaldo"/>
+    <file name="agenda2_btn3.png" crc="4007314866" ref="index:baracaldo"/>
+    <file name="contacto2_btn.png" crc="3821497180" ref="index:baracaldo"/>
+    <file name="contacto2_btn2.png" crc="4021043545" ref="index:baracaldo"/>
+    <file name="contacto2_btn3.png" crc="4021043545" ref="index:baracaldo"/>
+    <file name="musica_btn.png" crc="439637059" ref="index:baracaldo"/>
+    <file name="musica_btn2.png" crc="309076979" ref="index:baracaldo"/>
+    <file name="u2063-7.png" crc="200740835" ref="musica"/>
+    <file name="u2064-6.png" crc="157856799" ref="musica"/>
+    <file name="u2065-4.png" crc="339049349" ref="musica"/>
+    <file name="cabezote_1-u2037.png" crc="4158378204" ref="baracaldo:iragorri:garcia:zorro"/>
+    <file name="home_2_btn-u2032.png" crc="379386232" ref="baracaldo:iragorri:garcia:zorro"/>
+    <file name="home_2_btn-u2032-r.png" crc="130560566" ref="baracaldo:iragorri:garcia:zorro"/>
+    <file name="home_2_btn-u2032-m.png" crc="130560566" ref="baracaldo:iragorri:garcia:zorro"/>
+    <file name="home_2_btn-u2032-a.png" crc="379386232" ref="baracaldo:iragorri:garcia:zorro"/>
+    <file name="u2129-6.png" crc="536767224" ref="musica"/>
+    <file name="u2136-6.png" crc="91038884" ref="musica"/>
+    <file name="u2096-6.png" crc="501266763" ref="musica"/>
+    <file name="u2072-4.png" crc="3884463170" ref="musica"/>
+    <file name="u2080-6.png" crc="3770071708" ref="musica"/>
+  </folder>
+  <file name="index.html" crc="251525780" mt="1408558733968" redirect="true"/>
+  <file name="perfiles.html" crc="532138393" mt="1408558839222" redirect="true"/>
+  <file name="galeria.html" crc="3912714163" mt="1408558839224" redirect="true"/>
+  <file name="agenda.html" crc="3892825652" mt="1408558839230" redirect="true"/>
+  <file name="musicos.html" crc="350633296" mt="1408558839233" redirect="true"/>
+  <file name="baracaldo.html" crc="3877759458" mt="1408558832604" redirect="true"/>
+  <file name="iragorri.html" crc="4021227507" mt="1408558841582" redirect="true"/>
+  <file name="garcia.html" crc="3936988673" mt="1408558841584" redirect="true"/>
+  <file name="zorro.html" crc="170142783" mt="1408558841587" redirect="true"/>
+  <file name="contacto.html" crc="351411210" mt="1408558839236" redirect="true"/>
+  <file name="gracias.html" crc="4009627239" mt="1408558839239" redirect="true"/>
+  <file name="musica.html" crc="131293124" mt="1408558733977" redirect="true"/>
+</manifest>

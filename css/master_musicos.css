@@ -1,0 +1,217 @@
+#u2037
+{
+	display: block;
+	vertical-align: top;
+	position: fixed;
+}
+
+#u2036
+{
+	position: fixed;
+	background: transparent url("../images/perfiles2_btn.png") no-repeat left top;
+	background-size: contain !important;
+}
+
+#u2036:hover
+{
+	background: transparent url("../images/perfiles2_btn2.png") no-repeat left top;
+	background-size: contain !important;
+}
+
+#u2036.MuseLinkActive
+{
+	background: transparent url("../images/perfiles2_btn3.png") no-repeat left top;
+	background-size: contain !important;
+}
+
+#u2035
+{
+	position: fixed;
+	background: transparent url("../images/galeria2_btn.png") no-repeat left top;
+	background-size: contain !important;
+}
+
+#u2035:hover
+{
+	background: transparent url("../images/galeria2_btn2.png") no-repeat left top;
+	background-size: contain !important;
+}
+
+#u2035.MuseLinkActive
+{
+	background: transparent url("../images/galeria2_btn3.png") no-repeat left top;
+	background-size: contain !important;
+}
+
+#u2039
+{
+	position: fixed;
+	background: transparent url("../images/agenda2_btn.png") no-repeat left top;
+	background-size: contain !important;
+}
+
+#u2039:hover
+{
+	background: transparent url("../images/agenda2_btn2.png") no-repeat left top;
+	background-size: contain !important;
+}
+
+#u2039.MuseLinkActive
+{
+	background: transparent url("../images/agenda2_btn3.png") no-repeat left top;
+	background-size: contain !important;
+}
+
+#u2031
+{
+	position: fixed;
+	background: transparent url("../images/contacto2_btn.png") no-repeat left top;
+	background-size: contain !important;
+}
+
+#u2031:hover
+{
+	background: transparent url("../images/contacto2_btn2.png") no-repeat left top;
+	background-size: contain !important;
+}
+
+#u2031.MuseLinkActive
+{
+	background: transparent url("../images/contacto2_btn3.png") no-repeat left top;
+	background-size: contain !important;
+}
+
+#u2032
+{
+	vertical-align: top;
+	background: url("../images/home_2_btn-u2032.png") no-repeat 0px 0px;
+	position: fixed;
+}
+
+#u2032:hover
+{
+	background: url("../images/home_2_btn-u2032-r.png") no-repeat 0px 0px;
+}
+
+#u2032:active
+{
+	background: url("../images/home_2_btn-u2032-m.png") no-repeat 0px 0px;
+}
+
+#u2032.MuseLinkActive
+{
+	background: url("../images/home_2_btn-u2032-a.png") no-repeat 0px 0px;
+}
+
+#u2028
+{
+	position: relative;
+	background: transparent url("../images/musica_btn.png") no-repeat left top;
+	background-size: contain !important;
+}
+
+#u2028:hover
+{
+	background: transparent url("../images/musica_btn2.png") no-repeat left top;
+	background-size: contain !important;
+}
+
+#u2028.MuseLinkActive
+{
+	background: transparent url("../images/musica_btn2.png") no-repeat left top;
+	background-size: contain !important;
+}
+
+#u888
+{
+	position: relative;
+	background: transparent url("../images/mus_baracaldo_btn.png") no-repeat left top;
+	background-size: contain !important;
+}
+
+#u888:hover
+{
+	background: transparent url("../images/mus_baracaldo_btn2.png") no-repeat left top;
+	background-size: contain !important;
+}
+
+#u887
+{
+	position: relative;
+	background: transparent url("../images/mus_garcia_btn.png") no-repeat left top;
+	background-size: contain !important;
+}
+
+#u887:hover
+{
+	background: transparent url("../images/mus_garcia_btn2.png") no-repeat left top;
+	background-size: contain !important;
+}
+
+#u889
+{
+	position: relative;
+	background: transparent url("../images/mus_zorro_btn.png") no-repeat left top;
+	background-size: contain !important;
+}
+
+#u889:hover
+{
+	background: transparent url("../images/mus_zorro_btn2.png") no-repeat left top;
+	background-size: contain !important;
+}
+
+#u2202
+{
+	position: relative;
+	background: transparent url("../images/mus_iragorri_btn.png") no-repeat left top;
+	background-size: contain !important;
+}
+
+#u2202:hover
+{
+	background: transparent url("../images/mus_iragorri_btn2.png") no-repeat left top;
+	background-size: contain !important;
+}
+
+#u731
+{
+	vertical-align: top;
+	background: url("../images/fb_btn-u731.png") no-repeat 0px 0px;
+	position: relative;
+}
+
+#u731:hover
+{
+	background: url("../images/fb_btn-u731-r.png") no-repeat 0px 0px;
+}
+
+#u732
+{
+	vertical-align: top;
+	background: url("../images/youtube_btn-u732.png") no-repeat 0px 0px;
+	position: relative;
+}
+
+#u732:hover
+{
+	background: url("../images/youtube_btn-u732-r.png") no-repeat 0px 0px;
+}
+
+#u2023,#u2033,#u2024,#u2029,#u2026,#u2214,#u886,#u730,#u1663
+{
+	position: fixed;
+}
+
+#u822
+{
+	display: block;
+	vertical-align: top;
+	position: relative;
+}
+
+#u824
+{
+	position: relative;
+}
+

@@ -1,0 +1,165 @@
+#u183
+{
+	display: block;
+	vertical-align: top;
+	position: fixed;
+}
+
+#u1741
+{
+	position: fixed;
+	background: transparent url("../images/perfiles2_btn.png") no-repeat left top;
+	background-size: contain !important;
+}
+
+#u1741:hover
+{
+	background: transparent url("../images/perfiles2_btn2.png") no-repeat left top;
+	background-size: contain !important;
+}
+
+#u1741.MuseLinkActive
+{
+	background: transparent url("../images/perfiles2_btn3.png") no-repeat left top;
+	background-size: contain !important;
+}
+
+#u1773
+{
+	position: fixed;
+	background: transparent url("../images/galeria2_btn.png") no-repeat left top;
+	background-size: contain !important;
+}
+
+#u1773:hover
+{
+	background: transparent url("../images/galeria2_btn2.png") no-repeat left top;
+	background-size: contain !important;
+}
+
+#u1773.MuseLinkActive
+{
+	background: transparent url("../images/galeria2_btn3.png") no-repeat left top;
+	background-size: contain !important;
+}
+
+#u1789
+{
+	position: fixed;
+	background: transparent url("../images/agenda2_btn.png") no-repeat left top;
+	background-size: contain !important;
+}
+
+#u1789:hover
+{
+	background: transparent url("../images/agenda2_btn2.png") no-repeat left top;
+	background-size: contain !important;
+}
+
+#u1789.MuseLinkActive
+{
+	background: transparent url("../images/agenda2_btn3.png") no-repeat left top;
+	background-size: contain !important;
+}
+
+#u1805
+{
+	position: fixed;
+	background: transparent url("../images/contacto2_btn.png") no-repeat left top;
+	background-size: contain !important;
+}
+
+#u1805:hover
+{
+	background: transparent url("../images/contacto2_btn2.png") no-repeat left top;
+	background-size: contain !important;
+}
+
+#u1805.MuseLinkActive
+{
+	background: transparent url("../images/contacto2_btn3.png") no-repeat left top;
+	background-size: contain !important;
+}
+
+#u1719
+{
+	vertical-align: top;
+	background: url("../images/home_2_btn-u1719.png") no-repeat 0px 0px;
+	position: fixed;
+}
+
+#u1719:hover
+{
+	background: url("../images/home_2_btn-u1719-r.png") no-repeat 0px 0px;
+}
+
+#u1719:active
+{
+	background: url("../images/home_2_btn-u1719-m.png") no-repeat 0px 0px;
+}
+
+#u1719.MuseLinkActive
+{
+	background: url("../images/home_2_btn-u1719-a.png") no-repeat 0px 0px;
+}
+
+#u2005
+{
+	position: relative;
+	background: transparent url("../images/musica_btn.png") no-repeat left top;
+	background-size: contain !important;
+}
+
+#u2005:hover
+{
+	background: transparent url("../images/musica_btn2.png") no-repeat left top;
+	background-size: contain !important;
+}
+
+#u2005.MuseLinkActive
+{
+	background: transparent url("../images/musica_btn2.png") no-repeat left top;
+	background-size: contain !important;
+}
+
+#u291
+{
+	vertical-align: top;
+	background: url("../images/fb_btn-u291.png") no-repeat 0px 0px;
+	position: relative;
+}
+
+#u291:hover
+{
+	background: url("../images/fb_btn-u291-r.png") no-repeat 0px 0px;
+}
+
+#u313
+{
+	vertical-align: top;
+	background: url("../images/youtube_btn-u313.png") no-repeat 0px 0px;
+	position: relative;
+}
+
+#u313:hover
+{
+	background: url("../images/youtube_btn-u313-r.png") no-repeat 0px 0px;
+}
+
+#u2017,#u1821,#u1835,#u1826,#u1838,#u324,#u1664
+{
+	position: fixed;
+}
+
+#u1667
+{
+	display: block;
+	vertical-align: top;
+	position: relative;
+}
+
+#u1665
+{
+	position: relative;
+}
+
